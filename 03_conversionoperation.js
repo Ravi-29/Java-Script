@@ -20,6 +20,6 @@ let negvalue = -value;
 let str1 = "Ravi"
 let str2 = " Shankar"
 let str3 = str1 + str2
-console.log(str3);
+//console.log(str3);
 
 

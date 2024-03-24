@@ -1,7 +1,7 @@
 const name = "Ravi";
 const age = 23;
 
-console.log(`My name is ${name} and my age is ${age}`);
+//console.log(`My name is ${name} and my age is ${age}`);
 
 
 // const gameName = new String('Raviggg');
@@ -13,6 +13,6 @@ console.log(`My name is ${name} and my age is ${age}`);
 // console.log(gameName.length);
 
 
-const namee = "   Ravi   ";
+const namee = "    Ravi   ";
 console.log(namee);
 console.log(namee.trim());
